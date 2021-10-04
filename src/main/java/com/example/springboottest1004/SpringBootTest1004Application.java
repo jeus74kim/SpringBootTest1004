@@ -10,4 +10,7 @@ public class SpringBootTest1004Application {
         SpringApplication.run(SpringBootTest1004Application.class, args);
     }
 
+    private void test(){
+        System.out.println("test");
+    }
 }
